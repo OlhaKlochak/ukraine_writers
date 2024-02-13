@@ -23,4 +23,4 @@ git diff HEAD
 git rebase
 git cherry-pick
 git cherry-pick commitHash
-... and others
+... and others commands
